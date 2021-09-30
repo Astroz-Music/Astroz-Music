@@ -4,7 +4,7 @@
 <h3>Config Commands</h3>
 <ul>
 <li>24/7</li>
-<li>djroleli>
+<li>djrole<li>
 <li>prefix</li>
 <li>reset</li>
 <li>toggle-np</li>
