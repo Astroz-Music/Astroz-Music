@@ -1,9 +1,8 @@
+   <h1> Astroz Music </h1>
+   <p>Hey! This is Astroz. Am here to provide you 24/7 high quality music.</p>
 
-    <h1> Astroz Music </h1>
-    <p>Hey! This is Astroz. Am here to provide you 24/7 high quality music.</p>
-
-    <h3>Config Commands</h3>
-    <ul>
+   <h3>Config Commands</h3>
+   <ul>
         <li>24/7</li>
         <li>djrole</li>
         <li>prefix</li>
