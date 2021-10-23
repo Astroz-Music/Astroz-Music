@@ -51,3 +51,16 @@
         <li>stats</li>
         <li>uptime</li>
     </ul>
+        <h3>Custom Playlist</h3>
+    <ul>
+        <li>pl-addcurrent</li>
+        <li>pl-addqueue</li>
+        <li>pl-create</li>
+        <li>pl-delete</li>
+        <li>pl-info</li>
+           <li>pl-list</li>
+        <li>pl-load</li>
+              <li>pl-playshuffle</li>
+        <li>pl-removedupes</li>
+          <li>pl-removetrack</li>
+    </ul>
